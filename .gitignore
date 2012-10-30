@@ -1,7 +1,5 @@
-.DS_Store
 Gemfile.lock
 *.gem
 tmp
-.rbenv-*
-.sass-cache
+.rvmrc
 pkg
