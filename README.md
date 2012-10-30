@@ -10,7 +10,7 @@ If you already have a Middleman project:
 Add `middleman-clementine` to your `Gemfile`, and open your `config.rb` and add:
 
 ```
-activate :clementne
+activate :clementine
 ```
 # Bug Reports
 
